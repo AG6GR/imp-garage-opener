@@ -1,0 +1,18 @@
+Craftsman 1/2HP Garage door opener
+	- Part No: 41A4315-70
+	- Date 03/03
+Patents
+	- RE35364;4750118;4885872;4905542;5010688;5297782
+	- RE36703 RE35364
+	- 5998950 6310451
+Switch Terminals
+	- 24V not moving closed
+	- 22.46 not moving open,drops to 20V
+	- 19.8 moving up
+	- 20.4V moving down
+	- 22.5V not moving closed
+Internal Limit Switches
+	- 5V when open
+	- Tied to ground when contacted
+		- Contacted when door is up/down
+	- Ground shared with external connector
